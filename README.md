@@ -1,4 +1,4 @@
-# 🧧 2026 春节祝福 Skill for OpenClaw 🦞
+# 🧧 2026 微信春节祝福 Skill for OpenClaw 🦞
 
 > **Skill 源代码已开源。**
 > 结果出来的时候，我自己都愣住了。
@@ -12,7 +12,7 @@
 
 ## 📖 The Story / 故事背景
 
-**农历新年，我让 OpenClaw 🦞 AI 发了 9000 条祝福。**
+**农历新年，我让 OpenClaw 🦞 AI 在微信上逐个发了 9000 条祝福。**
 
 你猜 AI 消耗了多少 Token？
 
